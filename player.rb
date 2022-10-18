@@ -1,5 +1,3 @@
-
-
 class Player
   
   def initialize(name)
