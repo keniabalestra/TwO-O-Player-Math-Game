@@ -14,4 +14,8 @@ class Player
   def lives
     @lives
   end
+
+  def name
+    @name
+  end
 end
